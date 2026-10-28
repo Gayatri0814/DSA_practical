@@ -67,13 +67,3 @@ Through these practicals, I aim to strengthen my understanding of algorithm desi
 🤝 Contributions
 
 This repository primarily serves as my DSA practical collection. Suggestions and improvements are always welcome!
-
-👨‍💻 Author
-
-Your Name
-
-GitHub: @your-github-username
-
-⭐ If you find this repository helpful, consider giving it a star!
-
-Happy Coding! 💻
